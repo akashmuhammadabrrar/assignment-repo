@@ -1,5 +1,8 @@
-body {
+.body-font {
   font-family: "Josefin Sans", sans-serif;
+}
+.font-footer {
+  font-family: "Vujahday Script", cursive;
 }
 h1 {
   font-size: 50px;
@@ -81,4 +84,23 @@ h1 {
   margin: 10px;
   padding-left: 40px;
   padding-top: 20px;
+}
+.mission-class-2 {
+  text-align: center;
+}
+.banner-second-2 {
+  display: flex;
+  padding-left: 40px;
+  padding-top: 60px;
+}
+.banner-second-2 img {
+  width: 60%;
+  margin: 10px;
+  padding-left: 40px;
+  padding-top: 20px;
+}
+.footer {
+  text-align: center;
+  color: #fff;
+  background-color: black;
 }
